@@ -1,4 +1,4 @@
-## Analog Circuits Reflection
+# Analog Circuits Reflection
 
 <p style="text-align:justify;">
 Advancing through my undergraduate, I came across the concepts of VLSI and signal designing. With the improvement in computer and mobile technology, there is an increased demand for high-speed processors. In order to get a very large-scale integration you need to have thousands of devices in a small area. In my basic electronics class, I was taught that transistors are the building block of all the electronic devices, and was curious to know more about them. Because of my inquisitiveness, I enrolled in the Analog Circuits course to study the characteristics of Analog devices in depth. It was during the course, I discovered that analog circuits form the building block to numerous applications in the field of electronics. For example power conversion, frequency mixing and filtering, that were discussed during the coursework. <br></p>
