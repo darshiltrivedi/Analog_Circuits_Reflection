@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 <span style="text-align:justify;">
 During my undergraduate studies, I encountered the concepts of Very Large Scale Integration(VLSI) and signal designing. With the improvement in computer and mobile technology, there is an increased demand for high-speed processors. In order to get a very large-scale integration you need to have thousands of devices in a small area. In my basic electronics class, I was taught that transistors are the building block of all the electronic devices, and was curious to know more about them. Because of my inquisitiveness, I enrolled in the Analog Circuits course to study the characteristics of analog devices in depth. I discovered that analog circuits form the building block to numerous applications in the field of electronics such as power conversion, frequency mixing and filtering, that were discussed during the coursework.  <br></span>
 <br>
@@ -7,4 +8,5 @@ During my undergraduate studies, I encountered the concepts of Very Large Scale 
 <br>
 <span style="text-align:justify;">		It was a great learning experience for me which helped me develop the knowledge about circuits with an analog perspective. At the end, I would highly recommend Analog Circuits course to any of the incoming students at UB, who has interest in VLSI. Anyone with the basic knowledge of electronics can take this subject and master it. </span>
 <br>
+  </div>
 <p style="text-align:center; padding:10px"><img  id="Analogimg" src="Schematic_Final.jpg" alt="Profile Image"></p>
